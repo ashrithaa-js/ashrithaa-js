@@ -16,7 +16,7 @@
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png"/> <img width="50" height="50" src="https://img.icons8.com/color/50/code-blocks.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/anaconda--v2.png"/> <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png"/>
 
 ### 💻 Workspace Specification
-<img height="30" src="https://img.shields.io/badge/DELL-inspiron_5430-0076CE?style=for-the-badge&logo=asus&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/intel-i7-0072CE?style=for-the-badge&logo=intel&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/DELL-inspiron_5430-0076CE?style=for-the-badge&logo=dell&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/intel-i7-0072CE?style=for-the-badge&logo=intel&logoColor=white"/>
 
 ### 📈 Statistics
 #### LeetCode Statistics:
