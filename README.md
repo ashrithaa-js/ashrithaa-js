@@ -1,6 +1,6 @@
 ## Hello There I'm Ashrithaa J S 🙋🏻‍♀️
 
-#### Student at PSG College of Technology 👨‍🎓
+#### Student at PSG College of Technology 👩‍🎓
 
 - 📚 Pursuing M.Sc (Software Systems)
 - 🌱 Currently learning Web Development
