@@ -20,7 +20,7 @@
 
 ### 📈 Statistics
 #### LeetCode Statistics:
-![Ashrithaa's LeetCode Statistics](https://leetcard.jacoblin.cool/ashrithaa-js?theme=dark&font=Oxygen&ext=activity)
+![Ashrithaa's LeetCode Statistics](https://leetcard.jacoblin.cool/ashrithaa-js?theme=dark&font=Oxygen&ext=heatmap)
 </br>
 
 #### GitHub Statistics:
