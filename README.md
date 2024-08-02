@@ -24,13 +24,13 @@
 ![Ashrithaa's LeetCode Statistics](https://leetcard.jacoblin.cool/ashrithaa-js?theme=dark&font=Oxygen&ext=heatmap)
 </br>
 
-#### GitHub Statistics:
+<!-- #### GitHub Statistics:
 ![Ashrithaa's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ashrithaa-js&theme=dark&show_icons=true&&hide=issues,contribs)
 </br>
 
 #### GitHub Activity Graph:
 [![Ashrithaa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashrithaa-js&bg_color=0d0d0d&color=ed07a5&line=f702aa&point=f5f4f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</br>
+</br> -->
 
 
 
