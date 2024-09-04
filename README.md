@@ -1,8 +1,7 @@
 ## Hello There I'm Ashrithaa J S 🙋🏻‍♀️
 
-#### Student at PSG College of Technology 👩‍🎓
-
-- 📚 Pursuing M.Sc (Software Systems)
+#### M.Sc Software Systems | PSG College of Technology 👩‍🎓
+#### B.Sc Data Science | IIT Madras
 - 🌱 Currently learning Web Development
 - 📌 Interested at Cloud Computing
 - 🤔 Looking for help with Online Course Suggestions
