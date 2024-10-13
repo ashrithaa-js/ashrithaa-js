@@ -13,7 +13,7 @@
 ### 👩🏻‍💻 Languages I Code
 <img height="50" width="50" src="https://img.icons8.com/fluency/50/c-programming.png" /> <img width="50" height="50" src="https://img.icons8.com/fluency/48/matlab.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" /> <img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png"/>  <img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> <img width="50" height="50" src="https://www.svgrepo.com/show/355152/oracle.svg"/>
 
-### ⌨️ Tools I Use
+### ⚙️ Tools I Use
 <img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/matlab.png"/> <img width="50" height="50" src="https://img.icons8.com/color/50/code-blocks.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/anaconda--v2.png"/> <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://www.thatjeffsmith.com/wp-content/uploads/2012/03/sqldev_512x512x32.png"/> <img height="50" width="50" src="https://github.com/ashrithaa-js/emu8086logo/blob/main/ca609bab1385855220fd15dff809b2f0-removebg-preview.png" /> 
 <img height="50" width="50" src="https://github.com/ashrithaa-js/keil-uvision5-logo/blob/main/images-removebg-preview%20(1).png" /> <img height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" /> 
 
