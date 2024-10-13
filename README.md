@@ -8,7 +8,7 @@
 - 🤔 Looking for help with Online Course Suggestions
 
 ### 📧 Reach Me Using
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashrithaa-j-s-399081231/) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](ashrithaajspsgtech@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashrithaa-j-s-399081231/) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ashrithaajspsgtech@gmail.com)
 
 ### 👩🏻‍💻 Languages I Code
 <img height="50" width="50" src="https://img.icons8.com/fluency/50/c-programming.png" /> <img width="50" height="50" src="https://img.icons8.com/fluency/48/matlab.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" /> <img width="50" height="50" src="https://img.icons8.com/fluency/50/python.png"/>  <img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png"/> <img width="50" height="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> <img width="50" height="50" src="https://www.svgrepo.com/show/355152/oracle.svg"/>
