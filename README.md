@@ -1,7 +1,6 @@
 ## Hello There I'm Ashrithaa J S 🙋🏻‍♀️
 
-#### M.Sc Software Systems | PSG College of Technology 👩‍🎓
-#### B.Sc Data Science | IIT Madras 👩‍🎓
+#### M.Sc Software Systems | PSG College of Technology || B.Sc Data Science | IIT Madras 👩‍🎓
 
 - 🌱 Currently learning Web Development
 - 📌 Interested at Cloud Computing
@@ -11,7 +10,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashrithaa-j-s-399081231/) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ashrithaajspsgtech@gmail.com)
 
 ### 👩🏻‍💻 Languages I Code
-<img height="50" width="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-c-programming.svg" /> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-matlab.svg"/> <img height="50" width="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-c%2B%2B.svg" /> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-python.svg"/>  <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-html5.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-css.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/oracle-svgrepo-com.svg"/>
+<img height="50" width="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-c-programming.svg" /> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-matlab.svg"/> <img height="50" width="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-c%2B%2B.svg" /> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-python.svg"/>  <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-html5.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-css.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/assembly.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/oracle-svgrepo-com.svg"/> 
 
 ### ⚙️ Tools I Use
 <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/PuTTY_Icon.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-matlab.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-code-blocks.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-anaconda.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/icons8-visual-studio-code.svg"/> <img width="50" height="50" src="https://github.com/ashrithaa-js/logos/blob/main/SQL%20Developer.svg"/> <img height="50" width="50" src="https://github.com/ashrithaa-js/logos/blob/main/8086logo.png" /> 
