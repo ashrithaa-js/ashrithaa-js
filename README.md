@@ -20,8 +20,7 @@
 ### 💻 Workspace Specification
 <img height="30" src="https://img.shields.io/badge/DELL-inspiron_5430-0076CE?style=for-the-badge&logo=dell&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/intel-i7-0072CE?style=for-the-badge&logo=intel&logoColor=white"/>
 
-### 📈 Statistics
-#### LeetCode Statistics:
+### 📈 LeetCode Statistics
 ![Ashrithaa's LeetCode Statistics](https://leetcard.jacoblin.cool/ashrithaa-js?theme=dark&font=Oxygen&ext=heatmap)
 </br>
 
