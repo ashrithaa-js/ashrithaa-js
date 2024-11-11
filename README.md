@@ -5,8 +5,8 @@
 
 - 🌱 Currently learning Web Development
 - 📌 Interested at Cloud Computing
-- 🤔 Looking for help with Online Course Suggestions
-
+- 🤔 Looking for help with Career Guidance
+ 
 ### 📧 Reach Me Using
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashrithaa-j-s-399081231/) [<img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ashrithaajspsgtech@gmail.com)
 
