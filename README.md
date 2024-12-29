@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&letterSpacing=&duration=2000&pause=1000&color=04C1F7&center=true&vCenter=true&width=1000&height=35&lines=Hello+There+I'm+Ashrithaa+J+S+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;M.Sc+Software+Systems+%7C+PSG+College+of+Technology+%F0%9F%8E%93+;BS+Data+Science+%7C+IIT+Madras+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93;Currently+learning+Web+Development++%F0%9F%8C%B1+;Interested+in+Cloud+Computing+%F0%9F%93%8C"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=34&duration=2000&pause=1000&color=099AF7&center=true&vCenter=true&width=1000&height=40&lines=Hello+There+I'm+Ashrithaa+J+S+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;M.Sc+Software+Systems+%7C+PSG+College+of+Technology+%F0%9F%93%9A;BS+Data+Science+%7C+IIT+Madras+%F0%9F%8E%93;Currently+learning+Web+Development+%F0%9F%8C%B1+;Interested+at+Cloud+Computing+%E2%98%81%EF%B8%8F"/>
   <br/>
 </h1>
 
