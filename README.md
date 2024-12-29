@@ -11,7 +11,7 @@
 
 <hr/>
 
-<div
+<div>
 <h3> 🛠 Tech Toolbox </h3>
 <div>
   <img src="https://img.shields.io/badge/C-1E88E5?style=for-the-badge&logo=c&logoColor=white" />
