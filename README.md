@@ -51,7 +51,7 @@
 
 <hr/>
 
-<h3> 🐍 Contributions Snake</h3>
+<h3> 🐍 Contribution Snake</h3>
 <div align="center">
   <img src="https://github.com/ashrithaa-js/ashrithaa-js/blob/output/github-snake-dark.svg" />
   
