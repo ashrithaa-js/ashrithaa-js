@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=34&duration=2000&pause=1000&color=099AF7&center=true&vCenter=true&width=1000&height=40&lines=Hello+There+I'm+Ashrithaa+J+S+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;M.Sc+Software+Systems+%7C+PSG+College+of+Technology+%F0%9F%93%9A;BS+Data+Science+%7C+IIT+Madras+%F0%9F%8E%93;Currently+learning+Web+Development+%F0%9F%8C%B1+;Interested+at+Cloud+Computing+%E2%98%81%EF%B8%8F"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=25&duration=2000&pause=1000&color=099AF7&center=true&vCenter=true&width=1000&height=40&lines=Hello+There+I'm+Ashrithaa+J+S+%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;M.Sc+Software+Systems+%7C+PSG+College+of+Technology+%F0%9F%93%9A;BS+Data+Science+%7C+IIT+Madras+%F0%9F%8E%93;Currently+learning+Web+Development+%F0%9F%8C%B1+;Interested+at+Cloud+Computing+%E2%98%81%EF%B8%8F"/>
   <br/>
 </h1>
 
@@ -25,7 +25,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/PuTTY-455A64?style=for-the-badge&logo=putty&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-F9A825?style=for-the-badge&logo=matlab&logoColor=black" />
+  <img src="https://img.shields.io/badge/MATLAB-1E88E5?style=for-the-badge&logo=matlab&logoColor=black" />
   <img src="https://img.shields.io/badge/Code%20Blocks-039BE5?style=for-the-badge&logo=codeblocks&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-2E7D32?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0288D1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
