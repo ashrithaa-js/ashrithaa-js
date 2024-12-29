@@ -3,7 +3,7 @@
   <br/>
 </h1>
 
-### 📧 Find Me On
+<h3> 📧 Find Me On </h3>
 <div>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/GMail-ff4343?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -11,7 +11,7 @@
 
 <hr/>
 
-### 🛠️ Tech Toolbox
+<h3> 🛠️ Tech Toolbox </h3>
 <div>
   <img src="https://img.shields.io/badge/C-2A5B8D?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-FCDC35?style=for-the-badge&logo=matlab&logoColor=white" />
@@ -36,7 +36,7 @@
 
 <hr/>
 
-### 💻 Workspace Specs
+<h3> 💻 Workspace Specs </h3>
 <div>
   <img src="https://img.shields.io/badge/DELL-inspiron_5430-00529c?style=for-the-badge&logo=dell&logoColor=white" alt="DELL Inspiron 5430" />
   <img src="https://img.shields.io/badge/intel-i7-0072CE?style=for-the-badge&logo=intel&logoColor=white" alt="Intel i7" />
@@ -44,19 +44,27 @@
 
 <hr/>
 
-### 📈 LeetCode Stats
+<h3> 📈 LeetCode Stats </h3>
 <div align="center">
   <img width="400" align="center" src="https://leetcard.jacoblin.cool/ashrithaa-js?theme=dark&font=Oxygen&ext=heatmap" />
 </div>
 
 <hr/>
 
-<!--
+<h3> 🐍 Contributions Snake</h3>
+<div align="center">
+  <img src="https://github.com/ashrithaa-js/ashrithaa-js/blob/output/github-snake-dark.svg" />
+  
+  <br/>
+</div>
+
+<hr/>
+
 ### 🏆 Trophies Stack
 <div align="center">
   <img width="1000" align="center" src="https://github-profile-trophy.vercel.app/?username=ashrithaa-js&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=2" />
 </div>
 
 <hr/>
--->
+
 
