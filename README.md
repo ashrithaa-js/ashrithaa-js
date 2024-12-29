@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/SQL%20Developer-1B5E20?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/emu8086-7CB342?style=for-the-badge&logo=windows95&logoColor=white" />
   <img src="https://img.shields.io/badge/Keil_uVision-37474F?style=for-the-badge&logo=keil&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-1B5E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
 
