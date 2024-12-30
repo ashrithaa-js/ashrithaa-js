@@ -70,4 +70,10 @@
 
 <hr/>
 
+<div align="center">
+<img src = https://komarev.com/ghpvc/?username=ashrithaa-js />
+</div>
+
+<hr/>
+
 
