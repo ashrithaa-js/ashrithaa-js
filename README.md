@@ -71,7 +71,7 @@
 <hr/>
 
 <div align="center">
-<img src = https://visitcount.itsvg.in/api?id=ashrithaa-js&label=Profile%20Views&color=1&icon=6&pretty=false />
+<img src = https://komarev.com/ghpvc/?username=ashrithaa-js />
 </div>
 
 <hr/>
