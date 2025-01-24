@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/HTML5-D84315?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-0277BD?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_SQL-C62828?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 </div>
 <div>
