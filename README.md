@@ -18,10 +18,12 @@
   <img src="https://img.shields.io/badge/MATLAB-F9A825?style=for-the-badge&logo=matlab&logoColor=black" />
   <img src="https://img.shields.io/badge/C%2B%2B-1565C0?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FCDC35?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Assembly-3E2723?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-3E2723?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-D84315?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-0277BD?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_SQL-C62828?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+
 </div>
 <div>
   <img src="https://img.shields.io/badge/PuTTY-455A64?style=for-the-badge&logo=putty&logoColor=white" />
