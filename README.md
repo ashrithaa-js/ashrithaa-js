@@ -19,18 +19,27 @@
   <img src="https://img.shields.io/badge/C%2B%2B-1565C0?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FCDC35?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Assembly-3E2723?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-D84315?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-0277BD?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_SQL-C62828?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-
+  <br/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-6C3FCF?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/PuTTY-455A64?style=for-the-badge&logo=putty&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-1E88E5?style=for-the-badge&logo=matlab&logoColor=black" />
   <img src="https://img.shields.io/badge/Code%20Blocks-039BE5?style=for-the-badge&logo=codeblocks&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-2E7D32?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0288D1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Developer-1B5E20?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/emu8086-7CB342?style=for-the-badge&logo=windows95&logoColor=white" />
   <img src="https://img.shields.io/badge/Keil_uVision-37474F?style=for-the-badge&logo=keil&logoColor=white" />
