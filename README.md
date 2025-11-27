@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Keil_uVision-37474F?style=for-the-badge&logo=keil&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20CLI-2C001E?style=for-the-badge&logo=gnometerminal&logoColor=white" />
 </div>
 
 
